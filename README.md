@@ -4,7 +4,7 @@ Hey there! Thanks for visiting my GitHub homepage! This repository serves as a c
 
 ## 📙 Language and Tools
 
-<p align="left">
+<p align="left" style="color: inherit;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry pi" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
