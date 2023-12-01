@@ -24,7 +24,8 @@ Hey there! Thanks for visiting my GitHub homepage! This repository serves as a c
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
+  <a href="http://dlib.net/" target="_blank" rel="noreferrer"> <img src="https://brands.home-assistant.io/_/dlib_face_identify/logo@2x.png" alt="dlib" width="40" height="40"/> </a>
   <a href="https://nodered.org/" target="_blank" rel="noreferrer"> <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" alt="nodered" width="40" height="40"/> </a>
 </p>
 
