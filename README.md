@@ -28,6 +28,7 @@ Hey there! Thanks for visiting my GitHub homepage! This repository serves as a c
   <a style="color: #0060B6; text-decoration: none;" href="https://keras.io/" target="_blank" rel="noreferrer"> <img style="color: #0060B6; text-decoration: none;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
   <a style="color: #0060B6; text-decoration: none;" href="http://dlib.net/" target="_blank" rel="noreferrer"> <img style="color: #0060B6; text-decoration: none;" src="https://brands.home-assistant.io/_/dlib_face_identify/logo@2x.png" alt="dlib" width="40" height="40"/> </a>
   <a style="color: #0060B6; text-decoration: none;" href="https://nodered.org/" target="_blank" rel="noreferrer"> <img style="color: #0060B6; text-decoration: none;" src="https://nodered.org/about/resources/media/node-red-icon-2.svg" alt="nodered" width="40" height="40"/> </a>
+  <a style="color: #0060B6; text-decoration: none;" href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img style="color: #0060B6; text-decoration: none;" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/> </a>
 </p>
 
 ## 📞 Contact
